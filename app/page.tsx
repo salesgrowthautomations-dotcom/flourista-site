@@ -116,7 +116,7 @@ export default function Home() {
         <p className="text-neutral-400 mb-6">Mangalore, Karnataka</p>
 
         <a
-          href="https://wa.me/919999999999"
+          href="https://wa.me/916360513214"
           className="bg-white text-black px-6 py-3 rounded-full font-semibold hover:bg-neutral-200 transition"
         >
           Book on WhatsApp
